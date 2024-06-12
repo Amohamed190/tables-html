@@ -1,0 +1,92 @@
+html {
+  background: #0c6c9d;
+}
+
+body {
+  text-align: center;
+  width: 700px;
+  padding: 30px 50px;
+  margin: 20px auto;
+  border-radius: 20px;
+  background: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+table {
+  border: 1px solid white;
+  margin: 30px auto;
+  border-radius: 60px;
+}
+
+td {
+  border: 1px dotted blue;
+  padding: 10px;
+}
+
+#row-1 {
+  background-color: #053561;
+  color: white;
+}
+
+.block {
+  background: black;
+  color: white;
+}
+
+.time {
+  font-size: 8px;
+  font-style: italic;
+}
+
+.subject:hover {
+  background: #06413a;
+  color: white;
+  cursor: cell;
+  font-size: 12px;
+
+  transition: font-size 0.5s, background 0.5s, color 0.5s;
+}
+table th {
+  border: 100px solid #0c6c9d;
+  margin: 50px auto;
+  padding-left: 20px;
+  padding: 20px;
+  border-radius: 60px;
+}
+th {
+  border: 10px bold black;
+  background-color: #0c6c9d;
+  font-size: x-large;
+}
+#x {
+  width: 100px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-right: 20px;
+}
+
+#snapchat {
+  width: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#instagram {
+  width: 100px;
+  padding-left: 50px;
+  padding-right: 60px;
+  padding-top: 20px;
+}
+
+#tt {
+  width: 100px;
+  padding-left: 10px;
+  padding-right: 65px;
+}
+table td {
+  background-color: lightblue;
+  margin: auto;
+}
+#td {
+  font-family: sans-serif;
+}
